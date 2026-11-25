@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.env
+footage/
+exports/
+refs/
+bin/
+edit-bible.md
+.agents/
+.claude/skills/*
+!.claude/skills/edit-director/
+!.claude/skills/edit-bible/
